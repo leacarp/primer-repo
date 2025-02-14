@@ -1,1 +1,1 @@
-print("Intentando entender git fetch y git pull")
+print("Intentando entender git fetch y pull")
